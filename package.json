@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "curso-webpack-react",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yesidexe/Curso-react.git"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yesidexe/Curso-react/issues"
+  },
+  "homepage": "https://github.com/yesidexe/Curso-react#readme"
+}
